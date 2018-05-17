@@ -23,9 +23,9 @@ cipher.decrypt('s2ferw_nx346ty5odiupq#lmz8ajhgcvk79b', 'tk5j23tq94_gw9c#lhzs');
 ### What is ElsieFour?
 > ElsieFour (LC4) is a low-tech cipher that can be computed by hand;
 but unlike many historical ciphers, LC4 is designed to be hard to break. LC4 is in
-tended for encrypted communication between humans only, and therefore it en
-crypts and decrypts plaintexts and ciphertexts consisting only of the English let
-ters A through Z plus a few other characters
+tended for encrypted communication between humans only, and therefore it encrypts 
+and decrypts plaintexts and ciphertexts consisting only of the English letters 
+A through Z plus a few other characters
 
 In other words, it's a cipher that can be easily computed by hand. It uses a grid of the following alphabet:
 `#_23456789abcdefghijklmnopqrstuvwxyz`
