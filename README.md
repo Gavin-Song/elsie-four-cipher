@@ -1,4 +1,9 @@
 # elsie-four-cipher
+
+[![npm version](https://badge.fury.io/js/elsie-four-cipher.svg)](https://badge.fury.io/js/elsie-four-cipher)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c24d888bae2e416b9160277a76360686)](https://www.codacy.com/app/Gavin-Song/elsie-four-cipher?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gavin-Song/elsie-four-cipher&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/Gavin-Song/elsie-four-cipher.svg?branch=master)](https://travis-ci.org/Gavin-Song/elsie-four-cipher)
+
 A node.js implementation of the ElsieFour (LC4) cipher (https://eprint.iacr.org/2017/339.pdf). Currently supports encryption and decryption, but not the nonce or signature auth.
 
 ### Install
