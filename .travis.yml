@@ -5,4 +5,4 @@ node_js:
 cache:
   directories:
     - "node_modules"
-script: eslint *.js utils/*.js caps/*.js
+script: eslint *.js src/*.js
